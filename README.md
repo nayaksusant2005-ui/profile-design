@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, susanta kumar nayak
-**A passionate BTECH student** || **3rd year** || **DIPAK KUMAR BEHERA from India**
+**A passionate BTECH student** || **3rd year** || **susant kumar nayak from India**
 
 <!-- Snake Game Repo View -->
 
